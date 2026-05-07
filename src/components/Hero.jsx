@@ -1,4 +1,3 @@
-// src/components/Hero.jsx
 
 import React from "react";
 import { Box, Typography, Button, Container } from "@mui/material";
